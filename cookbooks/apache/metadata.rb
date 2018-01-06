@@ -1,5 +1,5 @@
-name 'Me'
-maintainer 'Me'
+name 'Apache'
+maintainer 'Marc'
 maintainer_email 'you@example.com'
 license 'All Rights Reserved'
 description 'Installs/Configures apache'
